@@ -1,0 +1,13 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1 {
+    width: 30%;
+    margin: auto;
+}
+.box2 {
+    width: 30%;
+    margin: auto;
+}
